@@ -1,4 +1,3 @@
-# ipt132-uninformed.py
 # Uninformed search: BFS
 from collections import deque
 import sys
@@ -153,4 +152,5 @@ def main():
     # print(f"Path cost: {cost}")
 
 if __name__ == "__main__":
+
     main()
