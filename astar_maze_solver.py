@@ -1,4 +1,3 @@
-# ipt132-informed.py
 # Informed search: A*
 
 import heapq
@@ -178,4 +177,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
